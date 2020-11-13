@@ -1,4 +1,3 @@
-# Zadania_TestAut_Genotyp
 # Odległość pomiędzy genotypami
 
 | Termin oddania | Punkty     |
