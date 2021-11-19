@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    20.11.2020  23:00 |  5         |
+|    03.12.2021  23:00 |  5         |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -60,4 +60,4 @@ Korzystając z metodologii TDD, napisz klasę/funkcje o nazwie hamming, obliczaj
 
 
 ### Uwaga
-W utworzonym repozytorium ustaw Continuous Integration (CI), tak, aby po każdym commit odpalane byłyby testy w repozytorium.
+W utworzonym repozytorium ustaw Continuous Integration (CI), tak, aby po każdym commit uruchamiane byłyby testy w repozytorium.
