@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    09.12.2022  23:00 |  5         |
+|    08.12.2023     23:00 |  5         |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -58,6 +58,9 @@ class HammingTest(unittest.TestCase):
 ```
 Korzystając z metodologii TDD, napisz klasę/funkcje o nazwie hamming, obliczająca odległość Hamminga dla podanych danych testowych.
 
+Zaprezentuj jak wykorzystana została technika TDD.
+
 
 ### Uwaga
-W utworzonym repozytorium ustaw Continuous Integration (CI), tak, aby po każdym commit uruchamiane byłyby testy w repozytorium.
+W utworzonym repozytorium ustaw Continuous Integration (CI) tak, aby po każdym commit uruchamiane byłyby testy w repozytorium 
+dla zaproponowanej klasy obliczającej odległość Hamminga.
